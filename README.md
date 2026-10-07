@@ -84,7 +84,6 @@ Infrastructure and manifests can be deployed automatically via Entra Workload Id
 
 
 Ontology Copilot Agents: Built-in Copilot agents assist developers in programmatically constructing, connecting, and editing nodes in the knowledge graph.
-thumb_upGood content thumb_downBad content Reply ready.
 
 
 Objectives
