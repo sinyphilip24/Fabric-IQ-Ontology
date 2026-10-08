@@ -3,6 +3,7 @@ In modern data platforms, enterprises often need a business-centric semantic lay
 Comprehensive Guide to Ontologies in Modern AI System & Microsoft Fabric
 
 1. Executive Summary & Core Definition
+   
 An ontology is an explicit, formal specification of a shared conceptualisation. It provides a structured representation of a domain by defining:
 
 Entities (Nodes): Real-world business concepts (e.g., Customer, Order, Shipment, Incident, SLA).
