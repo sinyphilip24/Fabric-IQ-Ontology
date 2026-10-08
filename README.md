@@ -7,7 +7,9 @@ Comprehensive Guide to Ontologies in Modern AI System & Microsoft Fabric
 An ontology is an explicit, formal specification of a shared conceptualisation. It provides a structured representation of a domain by defining:
 
 Entities (Nodes): Real-world business concepts (e.g., Customer, Order, Shipment, Incident, SLA).
+
 Relationships (Edges): Meaningful semantic connections linking entities in a graph network (e.g., Customer reports Incident, Incident impacts SLA).
+
 Properties (Attributes): Descriptive attributes attached to entities (e.g., Order Status, Shipment Temperature, Timezone).
 
 Unlike traditional relational schemas that group data into isolated tables, an ontology unifies business meaning across disparate enterprise systems (e.g., Salesforce, ServiceNow, ERPs) into a cohesive enterprise knowledge graph.
@@ -20,8 +22,10 @@ Key Takeaway: The semantic model answers where and how data is stored for report
 
 
 3. Why AI Agents & Agentic Systems Need Ontologies
+   
 Modern Artificial Intelligence relies on Large Language Models (LLMs), which are inherently probabilistic (predicting the next token) and lack acquired organizational experience.
 Neurosymbolic AI
+
 Combining probabilistic LLMs with deterministic knowledge graphs creates a neurosymbolic AI architecture:
 
 Guardrails: Prevents LLM hallucinations by anchoring queries in explicit structural relationships.
@@ -30,6 +34,7 @@ Agentic Loop Validation: Autonomous agents operating in iterative tool-calling l
 
 
 4. Microsoft Fabric Ontology & Fabric IQ
+   
 In Microsoft Fabric, the ontology architecture enables an enterprise "Company Brain":
 Core Architecture
 
