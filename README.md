@@ -99,16 +99,4 @@ Infrastructure and manifests can be deployed automatically via Entra Workload Id
 Ontology Copilot Agents: Built-in Copilot agents assist developers in programmatically constructing, connecting, and editing nodes in the knowledge graph.
 
 
-Objectives
-
-Prepare a Microsoft Fabric workspace with required services, including Lakehouse, Eventhouse, and Ontology (preview).
-
-Build a business-centric ontology by defining core entity types such as Store, Products, SaleEvent, and Freezer.
-
-ind static data from OneLake tables and time-series data from Eventhouse to ontology entities.
-
-Create meaningful relationships between entities to represent real business processes (for example, Store has SaleEvent and Store operates Freezer).
-
-Explore and validate the ontology using entity instances, relationship graphs, and query builder filters.
-
-Enable natural language querying by integrating the ontology with a Fabric Data Agent (preview).
+Checkout the wiki page for end to end project on ontology and connecting data agents.
